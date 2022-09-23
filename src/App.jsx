@@ -1,13 +1,11 @@
-/* import logo from './logo.svg';
- */import './App.css';
+import logo from './logo.svg';
+import './App.css';
 import React from 'react';
 
 function App() {
 
   let ciao="I'm React";
   let prova =`Hello Word, ${ciao}`
-
-
 
   return (
     <div className="App">
