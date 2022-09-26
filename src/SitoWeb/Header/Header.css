@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    align-items: center;
+    gap: 10rem;
+    color:white;
+}
+
+header div{
+        width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-start;
+    height: 80vh;
+}
+
+header span {
+    color: #f03a76;
+}
+
+header img {
+    width: 700px;
+    height: 700px;
+    transform: translate(674px, -270px);
+}

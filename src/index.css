@@ -1,13 +1,40 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+body{
+    margin: 0;
+    padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+p{
+    font-weight: 300;
+    color: #C7E0FA;
+    line-height: 2;
+}
+
+header, #strategic, #contact, #portfolio, footer{
+    padding: 4rem 8rem;
+}
+
+
+#team{
+    padding: 4rem 8rem 0rem 8rem;
+    margin-bottom: -3px;
+}
+
+#strategic, #contact, #portfolio{
+    background-color: #181823;
+}
+
+header, #team, footer, nav{
+    background-color: #000;
+}
+
+#waves{
+    background-color: #000;
+    margin-top: -25%;
+    margin-bottom: -10%;
+}
+
+nav{
+    color: #f03a76;
+    padding: 1rem 8rem;
 }
