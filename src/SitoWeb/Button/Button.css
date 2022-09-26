@@ -2,7 +2,9 @@ button {
     background-color: #f03a76;
     color: white;
     padding: 1rem 3rem 1rem 3rem;
-    font-weight: bold;
+  font-weight: bold;
     border-radius: 50px;
     border: 0;
 }
+
+

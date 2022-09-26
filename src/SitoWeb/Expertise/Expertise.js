@@ -1,4 +1,7 @@
 import './Expertise.css';
+import MobileAppDev from '../assets/mobile app development 1.png';
+import WebDevelopment from '../assets/web-development 1.png';
+import WebDesigner from '../assets/Web-Designing 1.png';
 
 export default function Expertise(){
     return(
@@ -17,7 +20,7 @@ export default function Expertise(){
 
             <div className="cards">
                 <div className="card">
-                    <img src="assets/mobile app development 1.png" alt="" />
+                    <img src={MobileAppDev} alt="" />
                     <h3>Mobile Apps</h3>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -26,7 +29,7 @@ export default function Expertise(){
                     </p>
                 </div>
                 <div className="card">
-                    <img src="assets/web-development 1.png" alt="" />
+                    <img src={WebDevelopment} alt="" />
                     <h3>Website Apps</h3>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -35,7 +38,7 @@ export default function Expertise(){
                     </p>
                 </div>
                 <div className="card">
-                    <img src="assets/Web-Designing 1.png" alt="" />
+                    <img src={WebDesigner} alt="" />
                     <h3>UI UX Design</h3>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.

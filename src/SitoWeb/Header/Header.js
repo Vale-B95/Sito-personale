@@ -1,7 +1,6 @@
 import './Header.css';
 import Button from '../Button/Button';
-/* import Phone from '../assets/phone.png'; */
-
+import Phone from '../assets/phone.png'; 
 function Header(){
 
     return(
@@ -13,9 +12,8 @@ function Header(){
         morbi vedit turpis et dolor sit morbi odio id. Aliquam ultricies
         tortor ac.
       </p>
-      <Button></Button>
-      <img src="assets/phone.png" alt="cellulare" />
-    {/* <img src={Phone} alt="cellulare" /> */}
+      <Button>Get Started</Button>
+<img src={Phone} alt="cellulare" />
     
 </div>
 </header>

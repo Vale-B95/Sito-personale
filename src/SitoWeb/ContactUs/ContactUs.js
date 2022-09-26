@@ -33,7 +33,7 @@ export default function Contactus(){
                         <label htmlFor="title">Title</label>
                         <input type="text" id="title" placeholder="Enter Title" />
                     </div>
-                    <Button></Button>
+                    <Button>Submit</Button>
                 </div>
             </form>
         </section>

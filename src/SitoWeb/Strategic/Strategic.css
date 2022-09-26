@@ -16,7 +16,7 @@
 #strategic .description h2 {
     color: #deecf9;
     font-weight: 700;
-    text-transhtmlFor: capitalize;
+    text-transform: capitalize;
 }
 
 #strategic .description p {

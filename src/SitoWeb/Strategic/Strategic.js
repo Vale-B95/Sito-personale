@@ -1,8 +1,10 @@
 import './Strategic.css';
+import Globe from '../assets/globe.png';
+
 export default function Strategic(){
     return(
 <section id="strategic">
-<img src="./assets/globe.png" alt="" />
+<img src={Globe}  alt="" />
 <div className="description">
     <h2>
         strategic engineering and design htmlFor international top

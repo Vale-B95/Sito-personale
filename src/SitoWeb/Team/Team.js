@@ -1,4 +1,6 @@
 import './Team.css';
+import team from '../assets/team.png';
+
 export default function Team(){
     return(
 
@@ -16,7 +18,7 @@ export default function Team(){
                 </p>
             </div>
             <div>
-                <img src="./assets/team.png" alt="img01" />
+                <img src={team} alt="img01" />
             </div>
         </section>
     )}

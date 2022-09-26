@@ -1,13 +1,14 @@
+
 #portfolio{
     display: flex;
     gap: 2rem;
-    color:white;
 }
 
 #portfolio .slider{
     display: flex;
     align-items: center;
 }
+
 
 #portfolio .slider > button{
     background-color: #F03A76;
@@ -20,17 +21,22 @@
     justify-content: center;
 }
 
-#portfolio button#left {
-    margin-right: -20px;
-    z-index: 1;
-}
-#portfolio button#right {
-    margin-left: -20px;
-}
 #portfolio button svg{
     fill: #fff;
     height: 15px;
 }
+
+#portfolio button#left {
+    margin-right: -20px;
+    z-index: 1;
+    padding: 0;
+}
+
+#portfolio button#right {
+    margin-left: -20px;
+    padding:0;
+}
+
 #portfolio hr{
     width: 120px; 
     height: 5px; 
