@@ -1,0 +1,51 @@
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+    color: white;
+
+  }
+  
+  #contact h2 {
+    margin-top: 2.5rem;
+    font-weight: 700;
+  }
+  
+  #contact .underline {
+    background-color: #f03a76;
+    border-radius: 10px;
+    height: 5px;
+    width: 50px;
+  }
+  #form {
+    display: flex;
+    justify-content: space-around;
+    font-weight: 100;
+    gap: 4rem;
+   margin-top: 2rem; 
+   }
+
+  .bloccoInput{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 2rem;
+
+}
+  
+
+  #submit, #reset{
+      background-color: #f03a76;
+      color: white;
+      padding: 1rem 3rem 1rem 3rem;
+    font-weight: bold;
+      border-radius: 50px;
+      border: 0;
+      width: 10rem;
+      transform: translate(0, -1rem);
+
+
+  
+}

@@ -8,7 +8,8 @@ import Expertise from './SitoWeb/Expertise/Expertise';
 import Strategic from './SitoWeb/Strategic/Strategic';
 import Team from './SitoWeb/Team/Team';
 import Portfolio from './SitoWeb/Portfolio/Portfolio';
-import Contactus from './SitoWeb/ContactUs/ContactUs';
+/* import Contactus from './SitoWeb/ContactUs/ContactUs'; */
+import FormContactUs from './SitoWeb/FormContactUs/FormContactUs';
 import Footer from './SitoWeb/Footer/Footer.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -21,9 +22,11 @@ root.render(
    <Strategic />
    <Team />
    <Portfolio />
-   <Contactus/>
+   <FormContactUs></FormContactUs>
+  {/*  <Contactus/> */}
    <Footer />
   </React.StrictMode>
 );
+
 
 

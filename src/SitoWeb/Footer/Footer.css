@@ -10,7 +10,7 @@ footer ul.noArrows {
 }
 
 footer ul.withArrows {
-    list-style-image: url(C:\Users\vbern\OneDrive\Desktop\sito-personale\public\assets\bulletArrow.svg);
+    list-style-image: url(../assets/bulletArrow.svg);
     padding: 0px;
     margin-left: 10px;
 }
