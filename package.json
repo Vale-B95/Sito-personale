@@ -1,6 +1,6 @@
 {
   "name": "sito-personale",
-  "homepage": "https://github.com/Vale-B95/sito-personale/",
+  "homepage": "https://github.com/Vale-B95/sito-personale/tree/main/src",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,8 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
-
   },
   "eslintConfig": {
     "extends": [
@@ -40,9 +38,7 @@
       "last 1 safari version"
     ]
   },
-
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
 }
-
