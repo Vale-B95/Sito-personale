@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Vale-B95/sito-personale/static/css/main.eff0e3b8.css",
-    "main.js": "/Vale-B95/sito-personale/static/js/main.7516f546.js",
-    "static/media/team.png": "/Vale-B95/sito-personale/static/media/team.cade9c80984f3797a5c1.png",
-    "static/media/globe.png": "/Vale-B95/sito-personale/static/media/globe.39e0d9dbf2dd34207de5.png",
-    "static/media/slider01.png": "/Vale-B95/sito-personale/static/media/slider01.afa95c998694ebf60617.png",
-    "static/media/phone.png": "/Vale-B95/sito-personale/static/media/phone.c60674d682de53c96614.png",
-    "static/media/mobile app development 1.png": "/Vale-B95/sito-personale/static/media/mobile app development 1.05c0c506138031b88bba.png",
-    "static/media/Web-Designing 1.png": "/Vale-B95/sito-personale/static/media/Web-Designing 1.7d7ff075a6066012287b.png",
-    "static/media/web-development 1.png": "/Vale-B95/sito-personale/static/media/web-development 1.760f840a059cd510017e.png",
-    "index.html": "/Vale-B95/sito-personale/index.html",
-    "static/media/Vector (2).svg": "/Vale-B95/sito-personale/static/media/Vector (2).34c0f18cf02204fd6fcb1efa2bd471c2.svg",
-    "static/media/bulletArrow.svg": "/Vale-B95/sito-personale/static/media/bulletArrow.9e86ac4b67c68af8c258.svg",
-    "static/media/Vector (1).svg": "/Vale-B95/sito-personale/static/media/Vector (1).cfccd65d1b423aaeeb78d530a9157c82.svg",
-    "main.eff0e3b8.css.map": "/Vale-B95/sito-personale/static/css/main.eff0e3b8.css.map",
-    "main.7516f546.js.map": "/Vale-B95/sito-personale/static/js/main.7516f546.js.map"
+    "main.css": "/Vale-B95/sito-personale/tree/main/src/static/css/main.d1d673c1.css",
+    "main.js": "/Vale-B95/sito-personale/tree/main/src/static/js/main.0e8fbabd.js",
+    "static/media/team.png": "/Vale-B95/sito-personale/tree/main/src/static/media/team.cade9c80984f3797a5c1.png",
+    "static/media/globe.png": "/Vale-B95/sito-personale/tree/main/src/static/media/globe.39e0d9dbf2dd34207de5.png",
+    "static/media/slider01.png": "/Vale-B95/sito-personale/tree/main/src/static/media/slider01.afa95c998694ebf60617.png",
+    "static/media/phone.png": "/Vale-B95/sito-personale/tree/main/src/static/media/phone.c60674d682de53c96614.png",
+    "static/media/mobile app development 1.png": "/Vale-B95/sito-personale/tree/main/src/static/media/mobile app development 1.05c0c506138031b88bba.png",
+    "static/media/Web-Designing 1.png": "/Vale-B95/sito-personale/tree/main/src/static/media/Web-Designing 1.7d7ff075a6066012287b.png",
+    "static/media/web-development 1.png": "/Vale-B95/sito-personale/tree/main/src/static/media/web-development 1.760f840a059cd510017e.png",
+    "index.html": "/Vale-B95/sito-personale/tree/main/src/index.html",
+    "static/media/Vector (2).svg": "/Vale-B95/sito-personale/tree/main/src/static/media/Vector (2).34c0f18cf02204fd6fcb1efa2bd471c2.svg",
+    "static/media/bulletArrow.svg": "/Vale-B95/sito-personale/tree/main/src/static/media/bulletArrow.9e86ac4b67c68af8c258.svg",
+    "static/media/Vector (1).svg": "/Vale-B95/sito-personale/tree/main/src/static/media/Vector (1).cfccd65d1b423aaeeb78d530a9157c82.svg",
+    "main.d1d673c1.css.map": "/Vale-B95/sito-personale/tree/main/src/static/css/main.d1d673c1.css.map",
+    "main.0e8fbabd.js.map": "/Vale-B95/sito-personale/tree/main/src/static/js/main.0e8fbabd.js.map"
   },
   "entrypoints": [
-    "static/css/main.eff0e3b8.css",
-    "static/js/main.7516f546.js"
+    "static/css/main.d1d673c1.css",
+    "static/js/main.0e8fbabd.js"
   ]
 }
