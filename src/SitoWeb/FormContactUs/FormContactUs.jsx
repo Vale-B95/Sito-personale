@@ -22,10 +22,10 @@ export default function FormContactUs(){
             </div>
             <div className='bloccoInput'>
             <Input type="tel" value="" etichetta="Phone" id="phone">Enter a phone numbers</Input>
-            <Input type="title" value="title" etichetta="Title" id="title">Title</Input>
+            <Input type="title" value="" etichetta="Title" id="title">Title</Input>
             <div>
             <Input type="submit" value="" etichetta=" " id="submit">Submit</Input>
-            <Input type="reset" value=" " etichetta=" " id="reset">Reset</Input>
+            <Input type="reset" value="" etichetta=" " id="reset">Reset</Input>
             </div>
         </div>
         </form>
