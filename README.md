@@ -72,4 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
  # Sito-personale  
 
- link al sito : https://vale-b95.github.io/sito-personale/
+ "Deploy:  "
+ <a href= "https://vale-b95.github.io/sito-personale/"  rel=" ">Link</a>
